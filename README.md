@@ -1,4 +1,4 @@
-# KubeCon2019 
+# Kubecon / Cloud Native 2019 
 ## Slides 
 Slides are in pdf & pptx and are broken up by type. Some of the sessions & tutorials are not available. 
 
